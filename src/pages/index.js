@@ -5,7 +5,7 @@ export default () => {
 
 	return  (
 		<Layout>
-			<h1>Hello gatsby</h1>
+			
 		</Layout>
 
 	)
